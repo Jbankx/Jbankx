@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jbankx
-- 👀 I’m interested in data Engineering
+- 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning advanced SQL
 - 💞️ I’m looking to collaborate on beginner level projects in databricks for data engineers
 - 📫 How to reach me ...
