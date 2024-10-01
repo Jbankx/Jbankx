@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Jbankx
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning advanced SQL
-- 💞️ I’m looking to collaborate on cloud projects for data engineers
-- 📫 How to reach me ...
+- 🌱 Currently an Analytics Engineer & BI Developer
+- 💞️ Data Engineering & AI
+- 📫 How to reach me ... www.linkedin.com/in/junior-alhassan-baa2836a
 
 <!---
 Jbankx/Jbankx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
