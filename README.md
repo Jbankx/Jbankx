@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jbankx
 - 🌱 Currently an Analytics Engineer & BI Developer
-- 💞️ Data Engineering & AI
+- 💞️ Data Engineering & Team Work
 - 📫 How to reach me ... www.linkedin.com/in/junior-alhassan-baa2836a
 
 <!---
